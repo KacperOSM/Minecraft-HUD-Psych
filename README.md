@@ -1,10 +1,13 @@
 # Minecraft HUD
 Replaces the Default HUD with the HUD reminisent of Minecraft.
 
+Use this script as intented in [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)!
+
 ### Be sure to give credit when used on your own mod!
 
 ## GUIDE
 ### Installation
+#### Download the **_Source code (zip)_** file from **_[Releases](https://github.com/KacperOSM/Minecraft-HUD-Psych/releases)_**.
 ##### **PE Version 0.6.2 and above**
 
 Extract the Folder included in the zip to the "mods" folder of your Psych Installation.
@@ -26,8 +29,8 @@ In the **MinecraftGUI.lua** file you shall find 2 variables:
 ### KacperOSM - The script and the assets
 ### Mojang Studios - Developers of Minecraft
 
-
+---
 
 Am I going to update it? Probably.
 
-You can either report bugs in the comments, or in the Psych Engine's official discord server, and let me know (Kacper#8400) in psych-general channel.
+You can either report bugs in the **[Psych Engine's official discord server](https://discord.gg/2ka77eMXDv)**, and let me know **(Kacper#8400)** in **#psych-general**.
