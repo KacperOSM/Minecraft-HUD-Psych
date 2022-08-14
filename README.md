@@ -30,7 +30,7 @@ In the **MinecraftGUI.lua** file you shall find 2 variables:
 ### Mojang Studios - Developers of Minecraft
 
 ## Issues
-The healthbar may break during the gameplay (won't happen based on what mod you playing).
+The health bar may break during the gameplay (won't happen based on what mod you playing).
 
 ---
 
