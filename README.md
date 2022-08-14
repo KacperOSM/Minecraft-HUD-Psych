@@ -5,7 +5,7 @@ Use this script as intented in [Psych Engine](https://github.com/ShadowMario/FNF
 
 ### Be sure to give credit when used on your own mod!
 
-## GUIDE
+## Guide
 ### Installation
 #### Download the **_Source code (zip)_** file from **_[Releases](https://github.com/KacperOSM/Minecraft-HUD-Psych/releases)_**.
 ##### **PE Version 0.6.2 and above**
@@ -25,9 +25,12 @@ In the **MinecraftGUI.lua** file you shall find 2 variables:
 ##### timetype (Time Type): You can either choose the '**Compass**', a **traditional bar**, or **none**. (disabling the time bar)
 ##### scoreboard (Score board): You can either enable it (**true**), or disable it. (**false**)
 
-## CREDIT
+## Credit
 ### KacperOSM - The script and the assets
 ### Mojang Studios - Developers of Minecraft
+
+## Issues
+The healthbar may break during the gameplay (won't happen based on what mod you playing).
 
 ---
 
