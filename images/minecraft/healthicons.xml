@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healthicons.png">
+	<SubTexture name="armor0000" x="8" y="8" width="41" height="37"/>
+	<SubTexture name="halfarmor0000" x="57" y="8" width="41" height="37"/>
+	<SubTexture name="halfheart0000" x="8" y="53" width="39" height="36"/>
+	<SubTexture name="heart0000" x="55" y="53" width="39" height="36"/>
+	<SubTexture name="nonearmor0000" x="8" y="97" width="41" height="37"/>
+	<SubTexture name="noneheart0000" x="57" y="97" width="39" height="36"/>
+</TextureAtlas>

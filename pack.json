@@ -1,0 +1,7 @@
+{
+	"name": "Minecraft HUD",
+	"description": "Replaces the Default HUD with the HUD reminisent of Minecraft\n VERSION: 1.0 HOTFIX",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [164,227,128]
+}

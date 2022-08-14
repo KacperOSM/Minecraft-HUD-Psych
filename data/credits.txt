@@ -1,0 +1,4 @@
+Minecraft HUD Script
+Kacper::kacper::Programmer of the script & Artist of the assets::https://twitter.com/Kacper_OSM::FF9900
+Minecraft
+Mojang Studios::Mojang::Developers of Minecraft::https://en.wikipedia.org/wiki/Mojang_Studios::E83B3B
